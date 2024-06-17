@@ -3,4 +3,4 @@
 
 for this courch event, it simply detect if is falling or sprinting,\
 if all not, it's gonna use the built-in function "set capsule half-height,
-""" I was wondering(not wandering) it is simply set to half-height, then what gonna happen when it comes to a visual character model """
+** I was wondering(not wandering) it is simply set to half-height, then what gonna happen when it comes to a visual character model **
