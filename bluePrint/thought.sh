@@ -8,3 +8,5 @@ a custom event or a event just like a method only run when the time it been call
 I wanna talk about Animations
 we record some nice and fancy animation, then we create an AnimationMontage, 
 yes, AnimationMontage just like an array of different AnimationMontage, can be defined as a variable
+
+I mean, it's quite esay for different type of animation like When reload or say "tactical reload", once we prepared the animations.
