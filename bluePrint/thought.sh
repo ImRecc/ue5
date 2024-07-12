@@ -10,3 +10,5 @@ we record some nice and fancy animation, then we create an AnimationMontage,
 yes, AnimationMontage just like an array of different AnimationMontage, can be defined as a variable
 
 I mean, it's quite esay for different type of animation like When reload or say "tactical reload", once we prepared the animations.
+
+Given that ↑, I have encountering a serious problem like I don't have enough money, to slove that I have to like unpacking the Tarkov
